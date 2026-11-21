@@ -1,3 +1,5 @@
+![cover](cover.png)
+
 # archspec
 
 **Understand what Claude builds in your Python/ML projects**, without reading all the code.
